@@ -1,0 +1,20 @@
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe.config
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.pdb
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csprojAssemblyReference.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form1.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.GenerateResource.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.exe
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.pdb
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.dll
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.dll
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.xml
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.xml
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CopyComplete
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.frmAnalytics.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.frmCalander.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.frmContactUs.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.frmDashboard.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.frmSettings.resources

@@ -1,0 +1,34 @@
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe.config
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.pdb
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.dll
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.dll
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.xml
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.xml
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\StoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form1.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.report.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\StoreManagementSystem.csproj.GenerateResource.cache
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\StoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\StoreManagementSystem.csproj.CopyComplete
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.exe
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.pdb
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.request.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.addItem.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.exit.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.login.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form2.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.viewItem.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.inventory.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form3.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.addUser.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.empRequest.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form4.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.empSetting.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.viewIssued.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.inventoryData.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.fullInventory.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.fullIssuedItems.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.userLog.resources
+C:\Users\SHEHERAN\Downloads\Prasaraa\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.viewUser.resources
